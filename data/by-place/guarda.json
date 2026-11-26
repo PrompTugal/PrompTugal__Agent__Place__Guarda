@@ -435,18 +435,106 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T02:34Z",
+  "read_at": "2026-11-26T11:22Z",
   "by": "place.guarda@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "PSP da Guarda deteve sete pessoas suspeitas do crime de tráfico de estupefacientes",
-   "url": "https://todasasbeiras.pt/2026/11/25/psp-da-guarda-deteve-sete-pessoas-suspeitas-do-crime-de-trafico-de-estupefacientes/",
-   "source": "TB - Todas As Beiras",
-   "date": "2026-11-25",
-   "read_at": "2026-11-26T02:30:56Z",
+   "title": "E os homenageados neste Dia da Cidade da Guarda são…",
+   "url": "https://www.ointerior.pt/sociedade/e-os-homenageados-sao/",
+   "source": "O Interior",
+   "date": "2026-11-26",
+   "read_at": "2026-11-26T11:14:06Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "E os homenageados neste Dia da Cidade da Guarda são…",
+    "url": "https://www.ointerior.pt/sociedade/e-os-homenageados-sao/",
+    "published": "2026-11-26T11:00Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-26T11:14:06Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Rewilding Portugal recebe 30 mil euros para recuperar três ribeiras no Douro Internacional",
+    "url": "https://www.ointerior.pt/regiao/rewilding-portugal-recebe-30-mil-euros-para-recuperar-tres-ribeiras-no-douro-internacional/",
+    "published": "2026-11-26T10:59Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-26T11:14:06Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Rewilding Portugal recebe 30 mil euros para recuperar três ribeiras no Douro Internacional",
+    "url": "https://www.altitude.fm/actualidade/rewilding-portugal-recebe-30-mil-euros-para-recuperar-tres-ribeiras-no-douro-internacional/",
+    "published": "2026-11-26T10:58Z",
+    "source": "Rádio Altitude",
+    "source_site": "https://www.altitude.fm/",
+    "feed": "https://www.altitude.fm/feed/",
+    "read_at": "2026-11-26T11:14:08Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Residência de Estudantes do Ensino Superior, na Rua António Sérgio, na Guarda, já está em andamento.",
+    "url": "https://radiofronteira.pt/2026/11/26/residencia-de-estudantes-do-ensino-superior-na-rua-antonio-sergio-na-guarda-ja-esta-em-andamento/",
+    "published": "2026-11-26T10:47Z",
+    "source": "Rádio Fronteira",
+    "source_site": "https://radiofronteira.pt",
+    "feed": "https://radiofronteira.pt/feed/",
+    "read_at": "2026-11-26T11:14:11Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Álvaro Amaro lança “Um Choque de Vida – Mudar o Interior”",
+    "url": "https://www.ointerior.pt/sociedade/alvaro-amaro-lanca-um-choque-de-vida-mudar-o-interior/",
+    "published": "2026-11-26T10:30Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-26T11:14:06Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Banco Alimentar Contra a Fome promove Campanha de Natal no fim de semana",
+    "url": "https://www.ointerior.pt/sociedade/banco-alimentar-contra-a-fome-promove-campanha-de-natal-no-fim-de-semana/",
+    "published": "2026-11-26T10:30Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-26T11:14:06Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "ULS da Guarda conquistou Prémio no XIX Congresso Nacional da Associação Portuguesa de Farmacêuticos Hospitalares.",
+    "url": "https://radiofronteira.pt/2026/11/26/uls-da-guarda-conquistou-premio-no-xix-congresso-nacional-da-associacao-portuguesa-de-farmaceuticos-hospitalares/",
+    "published": "2026-11-26T10:29Z",
+    "source": "Rádio Fronteira",
+    "source_site": "https://radiofronteira.pt",
+    "feed": "https://radiofronteira.pt/feed/",
+    "read_at": "2026-11-26T11:14:11Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Ouça o noticiário desta quinta-feira, 26 de novembro",
+    "url": "https://www.altitude.fm/actualidade/ouca-o-noticiario-desta-quinta-feira-26-de-novembro/",
+    "published": "2026-11-26T09:31Z",
+    "source": "Rádio Altitude",
+    "source_site": "https://www.altitude.fm/",
+    "feed": "https://www.altitude.fm/feed/",
+    "read_at": "2026-11-26T11:14:08Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
    {
     "title": "PSP da Guarda deteve sete pessoas suspeitas do crime de tráfico de estupefacientes",
     "url": "https://todasasbeiras.pt/2026/11/25/psp-da-guarda-deteve-sete-pessoas-suspeitas-do-crime-de-trafico-de-estupefacientes/",
@@ -454,7 +542,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T02:30:56Z",
+    "read_at": "2026-11-26T11:14:17Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -465,7 +553,7 @@
     "source": "O Interior",
     "source_site": "https://www.ointerior.pt",
     "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T02:30:46Z",
+    "read_at": "2026-11-26T11:14:06Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -476,7 +564,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T02:30:50Z",
+    "read_at": "2026-11-26T11:14:11Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -487,7 +575,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T02:30:50Z",
+    "read_at": "2026-11-26T11:14:11Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -498,41 +586,8 @@
     "source": "O Interior",
     "source_site": "https://www.ointerior.pt",
     "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T02:30:46Z",
+    "read_at": "2026-11-26T11:14:06Z",
     "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Autarquias obrigadas a publicar deliberações nos jornais locais",
-    "url": "https://www.ointerior.pt/regiao/autarquias-obrigadas-a-publicar-deliberacoes-nos-jornais-locais/",
-    "published": "2026-11-25T18:00Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T02:30:46Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Turismo do Centro defende valorização dos caminhos do contrabando",
-    "url": "https://www.ointerior.pt/sem-categoria/turismo-do-centro-defende-valorizacao-dos-caminhos-do-contrabando/",
-    "published": "2026-11-25T17:00Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T02:30:46Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Guarda FC e Minerva Academy Punjab (Índia) estabelecem protocolo de colaboração",
-    "url": "https://www.ointerior.pt/sociedade/guarda-fc-e-minerva-academy-punjab-india-estabelecem-protocolo-de-colaboracao/",
-    "published": "2026-11-25T16:55Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T02:30:46Z",
-    "mentions_place": true,
     "date": "2026-11-25"
    },
    {
@@ -542,19 +597,8 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T02:30:48Z",
+    "read_at": "2026-11-26T11:14:08Z",
     "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Igor Gomes convocado para os Campeonatos Europeus de Corta-Mato",
-    "url": "https://www.ointerior.pt/desporto/igor-gomes-convocado-para-os-campeonatos-europeus-de-corta-mato/",
-    "published": "2026-11-25T16:35Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T02:30:46Z",
-    "mentions_place": false,
     "date": "2026-11-25"
    },
    {
@@ -564,7 +608,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T02:30:48Z",
+    "read_at": "2026-11-26T11:14:08Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -575,7 +619,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T02:30:48Z",
+    "read_at": "2026-11-26T11:14:08Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -586,7 +630,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T02:30:56Z",
+    "read_at": "2026-11-26T11:14:17Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -597,7 +641,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T02:30:50Z",
+    "read_at": "2026-11-26T11:14:11Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -608,7 +652,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T02:30:50Z",
+    "read_at": "2026-11-26T11:14:11Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -619,7 +663,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T02:30:42Z",
+    "read_at": "2026-11-26T11:13:59Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -630,7 +674,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T02:30:42Z",
+    "read_at": "2026-11-26T11:13:59Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -641,18 +685,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T02:30:56Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "A Rede Côa Selvagem da Rewilding Portugal conquistou o Prémio Nacional de Turismo, na categoria de Turismo Comunitário.",
-    "url": "https://radiofronteira.pt/2026/11/25/a-rede-coa-selvagem-da-rewilding-portugal-conquistou-o-premio-nacional-de-turismo-na-categoria-de-turismo-comunitario/",
-    "published": "2026-11-25T12:01Z",
-    "source": "Rádio Fronteira",
-    "source_site": "https://radiofronteira.pt",
-    "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T02:30:50Z",
+    "read_at": "2026-11-26T11:14:17Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -663,7 +696,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T02:30:56Z",
+    "read_at": "2026-11-26T11:14:17Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -674,19 +707,8 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T02:30:42Z",
+    "read_at": "2026-11-26T11:13:59Z",
     "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Mais Bebés a nascer na Maternidade da Guarda, este ano.",
-    "url": "https://radiofronteira.pt/2026/11/25/mais-bebes-a-nascer-na-maternidade-da-guarda-este-ano/",
-    "published": "2026-11-25T11:16Z",
-    "source": "Rádio Fronteira",
-    "source_site": "https://radiofronteira.pt",
-    "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T02:30:50Z",
-    "mentions_place": true,
     "date": "2026-11-25"
    },
    {
@@ -696,7 +718,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T02:30:42Z",
+    "read_at": "2026-11-26T11:13:59Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -707,7 +729,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T02:30:42Z",
+    "read_at": "2026-11-26T11:13:59Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -718,7 +740,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T02:30:48Z",
+    "read_at": "2026-11-26T11:14:08Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -729,7 +751,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T02:30:42Z",
+    "read_at": "2026-11-26T11:13:59Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -740,7 +762,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T02:30:56Z",
+    "read_at": "2026-11-26T11:14:17Z",
     "mentions_place": false,
     "date": "2026-11-24"
    },
@@ -751,29 +773,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T02:30:56Z",
-    "mentions_place": false,
-    "date": "2026-11-24"
-   },
-   {
-    "title": "CTESP da UPG arrancaram na Escola Profissional de Trancoso",
-    "url": "https://www.altitude.fm/actualidade/ctesp-da-upg-arrancaram-na-escola-profissional-de-trancoso/",
-    "published": "2026-11-24T11:35Z",
-    "source": "Rádio Altitude",
-    "source_site": "https://www.altitude.fm/",
-    "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T02:30:48Z",
-    "mentions_place": false,
-    "date": "2026-11-24"
-   },
-   {
-    "title": "Ouça o noticiário desta terça-feira, 24 de novembro",
-    "url": "https://www.altitude.fm/actualidade/ouca-o-noticiario-desta-terca-feira-24-de-novembro/",
-    "published": "2026-11-24T11:09Z",
-    "source": "Rádio Altitude",
-    "source_site": "https://www.altitude.fm/",
-    "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T02:30:48Z",
+    "read_at": "2026-11-26T11:14:17Z",
     "mentions_place": false,
     "date": "2026-11-24"
    }
