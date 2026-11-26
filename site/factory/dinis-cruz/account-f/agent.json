@@ -1,0 +1,25 @@
+{
+ "name": "place.guarda",
+ "agent": "place.guarda@PrompTugal.dinis",
+ "place": "Guarda",
+ "kind": "city",
+ "parent": "portugal",
+ "run_by": "cl-6.places@PrompTugal.dinis",
+ "run_by_session": "https://claude.ai/code/session_016CrbJJcoCJnQM6GGY1xC5K",
+ "home": "https://github.com/PrompTugal/PrompTugal__Agent__Place__Guarda",
+ "state": "history and area done; local signals not yet read",
+ "updated": "2026-11-26T02:25Z",
+ "history": {
+  "done": true,
+  "files": 13,
+  "commits": 11,
+  "index": "history/PROVENANCE.md",
+  "log": "history/git-log.md"
+ },
+ "data": {
+  "by_place": "data/by-place/guarda.json",
+  "now": "data/by-place/now/guarda.json"
+ },
+ "wake": "twice a day, created by cl-6.maestro after setup (not by this agent)",
+ "branch": "dev"
+}
