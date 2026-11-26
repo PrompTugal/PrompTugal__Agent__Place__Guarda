@@ -435,37 +435,180 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T11:22Z",
+  "read_at": "2026-11-26T18:38Z",
   "by": "place.guarda@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "E os homenageados neste Dia da Cidade da Guarda são…",
-   "url": "https://www.ointerior.pt/sociedade/e-os-homenageados-sao/",
-   "source": "O Interior",
+   "title": "Câmara da Guarda com orçamento de 125 milhões de euros para 2027, oposição diz que está «viciada no crédito bancário»",
+   "url": "https://www.altitude.fm/actualidade/camara-da-guarda-com-orcamento-de-125-milhoes-de-euros-para-2027-oposicao-diz-que-esta-viciada-no-credito-bancario/",
+   "source": "Rádio Altitude",
    "date": "2026-11-26",
-   "read_at": "2026-11-26T11:14:06Z",
+   "read_at": "2026-11-26T18:29:30Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "E os homenageados neste Dia da Cidade da Guarda são…",
-    "url": "https://www.ointerior.pt/sociedade/e-os-homenageados-sao/",
-    "published": "2026-11-26T11:00Z",
+    "title": "Plano de Mobilidade Urbana Sustentável das Beiras e Serra da Estrela apresentado esta manhã",
+    "url": "https://www.ointerior.pt/regiao/plano-de-mobilidade-urbana-sustentavel-das-beiras-e-serra-da-estrela-apresentado-esta-manha/",
+    "published": "2026-11-26T18:17Z",
     "source": "O Interior",
     "source_site": "https://www.ointerior.pt",
     "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T11:14:06Z",
+    "read_at": "2026-11-26T18:29:29Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Plano de Mobilidade Urbana Sustentável das Beiras e Serra da Estrela apresentado esta manhã",
+    "url": "https://www.altitude.fm/actualidade/plano-de-mobilidade-urbana-sustentavel-das-beiras-e-serra-da-estrela-apresentado-esta-manha/",
+    "published": "2026-11-26T17:17Z",
+    "source": "Rádio Altitude",
+    "source_site": "https://www.altitude.fm/",
+    "feed": "https://www.altitude.fm/feed/",
+    "read_at": "2026-11-26T18:29:30Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Câmara da Guarda com orçamento de 125 milhões de euros para 2027, oposição diz que está «viciada no crédito bancário»",
+    "url": "https://www.altitude.fm/actualidade/camara-da-guarda-com-orcamento-de-125-milhoes-de-euros-para-2027-oposicao-diz-que-esta-viciada-no-credito-bancario/",
+    "published": "2026-11-26T17:10Z",
+    "source": "Rádio Altitude",
+    "source_site": "https://www.altitude.fm/",
+    "feed": "https://www.altitude.fm/feed/",
+    "read_at": "2026-11-26T18:29:30Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
    {
-    "title": "Rewilding Portugal recebe 30 mil euros para recuperar três ribeiras no Douro Internacional",
-    "url": "https://www.ointerior.pt/regiao/rewilding-portugal-recebe-30-mil-euros-para-recuperar-tres-ribeiras-no-douro-internacional/",
-    "published": "2026-11-26T10:59Z",
+    "title": "Câmara da Guarda com orçamento de 125 milhões de euros para 2027, oposição diz que está «viciada no crédito bancário»",
+    "url": "https://www.ointerior.pt/sociedade/camara-da-guarda-com-orcamento-de-125-milhoes-de-euros-para-2027-oposicao-diz-que-esta-viciada-no-credito-bancario/",
+    "published": "2026-11-26T17:08Z",
     "source": "O Interior",
     "source_site": "https://www.ointerior.pt",
     "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T11:14:06Z",
+    "read_at": "2026-11-26T18:29:29Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Guarda assinala 827 anos de história",
+    "url": "https://beira.pt/portal/noticias/guarda-assinala-827-anos-de-historia/",
+    "published": "2026-11-26T16:24Z",
+    "source": "beira.pt",
+    "source_site": "https://beira.pt/",
+    "feed": "https://beira.pt/feed/",
+    "read_at": "2026-11-26T18:29:19Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Celorico da Beira prepara Natal com programa de atividades",
+    "url": "https://beira.pt/portal/noticias/sociedade/celorico-da-beira-prepara-natal-com-programa-de-atividades/",
+    "published": "2026-11-26T16:02Z",
+    "source": "beira.pt",
+    "source_site": "https://beira.pt/",
+    "feed": "https://beira.pt/feed/",
+    "read_at": "2026-11-26T18:29:19Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Museu dos Sabores da Serra da Estrela: a identidade de uma região no coração da Guarda",
+    "url": "https://www.ointerior.pt/sociedade/museu-dos-sabores-da-serra-da-estrela-a-identidade-de-uma-regiao-no-coracao-da-guarda/",
+    "published": "2026-11-26T16:00Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-26T18:29:29Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Centro Cultural de Celorico da Beira recebe Cantinho de Natal",
+    "url": "https://beira.pt/portal/noticias/centro-cultural-de-celorico-da-beira-recebe-cantinho-de-natal/",
+    "published": "2026-11-26T15:54Z",
+    "source": "beira.pt",
+    "source_site": "https://beira.pt/",
+    "feed": "https://beira.pt/feed/",
+    "read_at": "2026-11-26T18:29:19Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Parceria com ULS da Cova da Beira garante médicos no Centro de Saúde de Belmonte",
+    "url": "https://www.ointerior.pt/regiao/parceria-com-uls-da-cova-da-beira-garante-medicos-no-centro-de-saude-de-belmonte/",
+    "published": "2026-11-26T15:00Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-26T18:29:29Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Aprovado o orçamento da Câmara da Guarda com o voto contra do PS e a abstenção da coligação PSD/CDS/IL",
+    "url": "https://todasasbeiras.pt/2026/11/26/aprovado-orcamento-da-camara-da-guarda-com-o-voto-contra-do-ps-e-a-abstencao-da-coligacao-psd-cds-il/",
+    "published": "2026-11-26T14:20Z",
+    "source": "TB - Todas As Beiras",
+    "source_site": "http://www.todasasbeiras.pt",
+    "feed": "http://www.todasasbeiras.pt/feed/",
+    "read_at": "2026-11-26T18:29:40Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Música e teatro no TMC~",
+    "url": "https://www.ointerior.pt/cultura/musica-e-teatro-no-tmc/",
+    "published": "2026-11-26T14:00Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-26T18:29:29Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "EPT conquista dois pódios na fase regional do Campeonato Nacional das Profissões",
+    "url": "https://www.ointerior.pt/regiao/ept-conquista-dois-podios-na-fase-regional-do-campeonato-nacional-das-profissoes/",
+    "published": "2026-11-26T13:30Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-26T18:29:29Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Autarcas do distrito da Guarda com Forais da Fundação recebidos pelo Presidente da República",
+    "url": "https://www.altitude.fm/actualidade/autarcas-do-distrito-da-guarda-com-forais-da-fundacao-recebidos-pelo-presidente-da-republica/",
+    "published": "2026-11-26T12:27Z",
+    "source": "Rádio Altitude",
+    "source_site": "https://www.altitude.fm/",
+    "feed": "https://www.altitude.fm/feed/",
+    "read_at": "2026-11-26T18:29:30Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "A Egitúnica – Tuna Feminina da Universidade Politécnica da Guarda suspende actividades por «falta de condições e desgaste de uma transição geracional exigente»",
+    "url": "https://todasasbeiras.pt/2026/11/26/a-egitunica-tuna-feminina-da-universidade-politecnica-da-guarda-suspende-actividades-por-falta-de-condicoes-e-desgaste-de-uma-transicao-geracional-exigente/",
+    "published": "2026-11-26T12:03Z",
+    "source": "TB - Todas As Beiras",
+    "source_site": "http://www.todasasbeiras.pt",
+    "feed": "http://www.todasasbeiras.pt/feed/",
+    "read_at": "2026-11-26T18:29:40Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "O brilho da “Terra Natal” regressa a Figueira de Castelo Rodrigo, de 1 a 31 de dezembro, para celebrar a época mais mágica do ano.",
+    "url": "https://radiofronteira.pt/2026/11/26/o-brilho-da-terra-natal-regressa-a-figueira-de-castelo-rodrigo-de-1-a-31-de-dezembro-para-celebrar-a-epoca-mais-magica-do-ano/",
+    "published": "2026-11-26T11:55Z",
+    "source": "Rádio Fronteira",
+    "source_site": "https://radiofronteira.pt",
+    "feed": "https://radiofronteira.pt/feed/",
+    "read_at": "2026-11-26T18:29:34Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -476,7 +619,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T11:14:08Z",
+    "read_at": "2026-11-26T18:29:30Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -487,30 +630,8 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T11:14:11Z",
+    "read_at": "2026-11-26T18:29:34Z",
     "mentions_place": true,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Álvaro Amaro lança “Um Choque de Vida – Mudar o Interior”",
-    "url": "https://www.ointerior.pt/sociedade/alvaro-amaro-lanca-um-choque-de-vida-mudar-o-interior/",
-    "published": "2026-11-26T10:30Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T11:14:06Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Banco Alimentar Contra a Fome promove Campanha de Natal no fim de semana",
-    "url": "https://www.ointerior.pt/sociedade/banco-alimentar-contra-a-fome-promove-campanha-de-natal-no-fim-de-semana/",
-    "published": "2026-11-26T10:30Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T11:14:06Z",
-    "mentions_place": false,
     "date": "2026-11-26"
    },
    {
@@ -520,7 +641,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T11:14:11Z",
+    "read_at": "2026-11-26T18:29:34Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -531,7 +652,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T11:14:08Z",
+    "read_at": "2026-11-26T18:29:30Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -542,19 +663,8 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T11:14:17Z",
+    "read_at": "2026-11-26T18:29:40Z",
     "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Sp. Covilhã continua sem ganhar na Liga 3",
-    "url": "https://www.ointerior.pt/sem-categoria/sp-covilha-continua-sem-ganhar-na-liga-3/",
-    "published": "2026-11-25T19:30Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T11:14:06Z",
-    "mentions_place": false,
     "date": "2026-11-25"
    },
    {
@@ -564,7 +674,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T11:14:11Z",
+    "read_at": "2026-11-26T18:29:34Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -575,18 +685,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T11:14:11Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Município de Seia apoia corporações de bombeiros com mais de 170 mil euros",
-    "url": "https://www.ointerior.pt/regiao/municipio-de-seia-apoia-corporacoes-de-bombeiros-com-mais-de-170-mil-euros/",
-    "published": "2026-11-25T18:30Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T11:14:06Z",
+    "read_at": "2026-11-26T18:29:34Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -597,29 +696,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T11:14:08Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Igor Gomes convocado para os Campeonatos Europeus de Corta-Mato",
-    "url": "https://www.altitude.fm/actualidade/igor-gomes-convocado-para-os-campeonatos-europeus-de-corta-mato/",
-    "published": "2026-11-25T16:35Z",
-    "source": "Rádio Altitude",
-    "source_site": "https://www.altitude.fm/",
-    "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T11:14:08Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Homem de 57 anos tentou introduzir droga no Estabelecimento Prisional da Guarda",
-    "url": "https://www.altitude.fm/actualidade/homem-de-57-anos-tentou-introduzir-droga-no-estabelecimento-prisional-da-guarda/",
-    "published": "2026-11-25T16:16Z",
-    "source": "Rádio Altitude",
-    "source_site": "https://www.altitude.fm/",
-    "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T11:14:08Z",
+    "read_at": "2026-11-26T18:29:30Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -630,7 +707,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T11:14:17Z",
+    "read_at": "2026-11-26T18:29:40Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -641,19 +718,8 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T11:14:11Z",
+    "read_at": "2026-11-26T18:29:34Z",
     "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Férias Municipais repletas de atividades para às crianças das Escolas de Almeida e Vilar Formoso, do 1.º e 2.º Ciclos do Ensino Básico e dos Pré-Escolares, de 16 a 31 de dezembro.",
-    "url": "https://radiofronteira.pt/2026/11/25/ferias-municipais-repletas-de-atividades-para-as-criancas-das-escolas-de-almeida-e-vilar-formoso-do-1-o-e-2-o-ciclos-do-ensino-basico-e-dos-pre-escolares-de-16-a-31-de-dezembro/",
-    "published": "2026-11-25T12:43Z",
-    "source": "Rádio Fronteira",
-    "source_site": "https://radiofronteira.pt",
-    "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T11:14:11Z",
-    "mentions_place": false,
     "date": "2026-11-25"
    },
    {
@@ -663,7 +729,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T11:13:59Z",
+    "read_at": "2026-11-26T18:29:19Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -674,7 +740,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T11:13:59Z",
+    "read_at": "2026-11-26T18:29:19Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -685,7 +751,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T11:14:17Z",
+    "read_at": "2026-11-26T18:29:40Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -696,7 +762,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T11:14:17Z",
+    "read_at": "2026-11-26T18:29:40Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -707,75 +773,9 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T11:13:59Z",
+    "read_at": "2026-11-26T18:29:19Z",
     "mentions_place": false,
     "date": "2026-11-25"
-   },
-   {
-    "title": "Rede Côa Selvagem vence Prémio Nacional de Turismo 2026 na categoria de Turismo Comunitário",
-    "url": "https://beira.pt/portal/noticias/rede-coa-selvagem-vence-premio-nacional-de-turismo-2026-na-categoria-de-turismo-comunitario/",
-    "published": "2026-11-25T10:23Z",
-    "source": "beira.pt",
-    "source_site": "https://beira.pt/",
-    "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T11:13:59Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Trancoso recebe pela primeira vez cursos técnicos superiores profissionais da Universidade Politécnica da Guarda",
-    "url": "https://beira.pt/portal/noticias/trancoso-recebe-pela-primeira-vez-cursos-tecnicos-superiores-profissionais-da-universidade-politecnica-da-guarda/",
-    "published": "2026-11-25T09:47Z",
-    "source": "beira.pt",
-    "source_site": "https://beira.pt/",
-    "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T11:13:59Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Ouça o noticiário desta quarta-feira, 25 de novembro",
-    "url": "https://www.altitude.fm/actualidade/ouca-o-noticiario-desta-quarta-feira-25-de-novembro/",
-    "published": "2026-11-25T09:47Z",
-    "source": "Rádio Altitude",
-    "source_site": "https://www.altitude.fm/",
-    "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T11:14:08Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Guarda homenageia empresários do concelho no âmbito das comemorações dos 827 anos da cidade",
-    "url": "https://beira.pt/portal/noticias/sociedade/guarda-homenageia-empresarios-do-concelho-no-ambito-das-comemoracoes-dos-827-anos-da-cidade/",
-    "published": "2026-11-25T09:34Z",
-    "source": "beira.pt",
-    "source_site": "https://beira.pt/",
-    "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T11:13:59Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "A culpa é do arco (da ponte)",
-    "url": "https://todasasbeiras.pt/2026/11/24/a-culpa-e-do-arco-da-ponte/",
-    "published": "2026-11-24T19:34Z",
-    "source": "TB - Todas As Beiras",
-    "source_site": "http://www.todasasbeiras.pt",
-    "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T11:14:17Z",
-    "mentions_place": false,
-    "date": "2026-11-24"
-   },
-   {
-    "title": "Lurdes Ferrão, atleta da Cercig, integrou a equipa “Special Olympics Portugal” vencedora do campeonato internacional",
-    "url": "https://todasasbeiras.pt/2026/11/24/lurdes-ferrao-atleta-da-cercig-integrou-a-equipa-special-olympics-portugal-vencedora-do-campeonato-internacional/",
-    "published": "2026-11-24T16:38Z",
-    "source": "TB - Todas As Beiras",
-    "source_site": "http://www.todasasbeiras.pt",
-    "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T11:14:17Z",
-    "mentions_place": false,
-    "date": "2026-11-24"
    }
   ]
  }
