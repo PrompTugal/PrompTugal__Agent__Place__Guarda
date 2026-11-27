@@ -5,7 +5,7 @@
  "kind": "city",
  "parent": "portugal",
  "status": "live",
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "by": "place.guarda@PrompTugal.dinis",
  "mandate": "PrompTugal.news Guarda: AI and technology in Guarda, a district capital of the interior whose centre of gravity is the Politécnico da Guarda, its data science and AI degree, its incubator and its business-digitalisation projects, and what reaches Guarda from Portugal and the world. Independent; every fact sourced.",
  "gravity": {
@@ -435,18 +435,84 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T18:38Z",
+  "read_at": "2026-11-27T07:38Z",
   "by": "place.guarda@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Câmara da Guarda com orçamento de 125 milhões de euros para 2027, oposição diz que está «viciada no crédito bancário»",
-   "url": "https://www.altitude.fm/actualidade/camara-da-guarda-com-orcamento-de-125-milhoes-de-euros-para-2027-oposicao-diz-que-esta-viciada-no-credito-bancario/",
-   "source": "Rádio Altitude",
+   "title": "Guarda celebra amanhã o Dia da Cidade com a inauguração do órgão de tubos e a homenagem a diversas personalidades e instituições",
+   "url": "https://todasasbeiras.pt/2026/11/26/guarda-celebra-amanha-o-dia-da-cidade-com-a-inauguracao-do-orgao-de-tubos-e-a-homenagem-a-diversas-personalidades-e-instituicoes/",
+   "source": "TB - Todas As Beiras",
    "date": "2026-11-26",
-   "read_at": "2026-11-26T18:29:30Z",
+   "read_at": "2026-11-27T07:28:10Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "Guarda celebra amanhã o Dia da Cidade com a inauguração do órgão de tubos e a homenagem a diversas personalidades e instituições",
+    "url": "https://todasasbeiras.pt/2026/11/26/guarda-celebra-amanha-o-dia-da-cidade-com-a-inauguracao-do-orgao-de-tubos-e-a-homenagem-a-diversas-personalidades-e-instituicoes/",
+    "published": "2026-11-26T20:26Z",
+    "source": "TB - Todas As Beiras",
+    "source_site": "http://www.todasasbeiras.pt",
+    "feed": "http://www.todasasbeiras.pt/feed/",
+    "read_at": "2026-11-27T07:28:10Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Quem baralha as cartas quando o crupiê é uma máquina",
+    "url": "https://www.ointerior.pt/sem-categoria/quem-baralha-as-cartas-quando-o-crupie-e-uma-maquina/",
+    "published": "2026-11-26T20:25Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-27T07:28:00Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "eSIM em Portugal: ativação e troca de telemóvel",
+    "url": "https://www.ointerior.pt/sociedade/esim-em-portugal-ativacao-e-troca-de-telemovel/",
+    "published": "2026-11-26T20:23Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-27T07:28:00Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Ministra do Ambiente reúne em Seia com autarcas do Parque Natural da Serra da Estrela",
+    "url": "https://todasasbeiras.pt/2026/11/26/ministra-do-ambiente-reune-em-seia-com-autarcas-do-parque-natural-da-serra-da-estrela/",
+    "published": "2026-11-26T20:03Z",
+    "source": "TB - Todas As Beiras",
+    "source_site": "http://www.todasasbeiras.pt",
+    "feed": "http://www.todasasbeiras.pt/feed/",
+    "read_at": "2026-11-27T07:28:10Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Soft2Bet Responsible Gambling Tools e as Suas Diferentes Funções",
+    "url": "https://www.ointerior.pt/sociedade/soft2bet-responsible-gambling-tools-e-as-suas-diferentes-funcoes/",
+    "published": "2026-11-26T19:20Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-27T07:28:00Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "A CIM Região Beiras e Serra da Estrela (CIMRBSE) apresentou o Plano de Mobilidade Urbana Sustentável da Região Beiras e Serra da Estrela.",
+    "url": "https://radiofronteira.pt/2026/11/26/a-cim-regiao-beiras-e-serra-da-estrela-cimrbse-apresentou-o-plano-de-mobilidade-urbana-sustentavel-da-regiao-beiras-e-serra-da-estrela/",
+    "published": "2026-11-26T18:37Z",
+    "source": "Rádio Fronteira",
+    "source_site": "https://radiofronteira.pt",
+    "feed": "https://radiofronteira.pt/feed/",
+    "read_at": "2026-11-27T07:28:04Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
    {
     "title": "Plano de Mobilidade Urbana Sustentável das Beiras e Serra da Estrela apresentado esta manhã",
     "url": "https://www.ointerior.pt/regiao/plano-de-mobilidade-urbana-sustentavel-das-beiras-e-serra-da-estrela-apresentado-esta-manha/",
@@ -454,7 +520,7 @@
     "source": "O Interior",
     "source_site": "https://www.ointerior.pt",
     "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T18:29:29Z",
+    "read_at": "2026-11-27T07:28:00Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -465,7 +531,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T18:29:30Z",
+    "read_at": "2026-11-27T07:28:01Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -476,7 +542,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T18:29:30Z",
+    "read_at": "2026-11-27T07:28:01Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -487,7 +553,7 @@
     "source": "O Interior",
     "source_site": "https://www.ointerior.pt",
     "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T18:29:29Z",
+    "read_at": "2026-11-27T07:28:00Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -498,7 +564,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T18:29:19Z",
+    "read_at": "2026-11-27T07:27:51Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -509,7 +575,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T18:29:19Z",
+    "read_at": "2026-11-27T07:27:51Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -520,7 +586,7 @@
     "source": "O Interior",
     "source_site": "https://www.ointerior.pt",
     "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T18:29:29Z",
+    "read_at": "2026-11-27T07:28:00Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -531,18 +597,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T18:29:19Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Parceria com ULS da Cova da Beira garante médicos no Centro de Saúde de Belmonte",
-    "url": "https://www.ointerior.pt/regiao/parceria-com-uls-da-cova-da-beira-garante-medicos-no-centro-de-saude-de-belmonte/",
-    "published": "2026-11-26T15:00Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T18:29:29Z",
+    "read_at": "2026-11-27T07:27:51Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -553,30 +608,8 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T18:29:40Z",
+    "read_at": "2026-11-27T07:28:10Z",
     "mentions_place": true,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Música e teatro no TMC~",
-    "url": "https://www.ointerior.pt/cultura/musica-e-teatro-no-tmc/",
-    "published": "2026-11-26T14:00Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T18:29:29Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "EPT conquista dois pódios na fase regional do Campeonato Nacional das Profissões",
-    "url": "https://www.ointerior.pt/regiao/ept-conquista-dois-podios-na-fase-regional-do-campeonato-nacional-das-profissoes/",
-    "published": "2026-11-26T13:30Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-26T18:29:29Z",
-    "mentions_place": false,
     "date": "2026-11-26"
    },
    {
@@ -586,7 +619,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T18:29:30Z",
+    "read_at": "2026-11-27T07:28:01Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -597,7 +630,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T18:29:40Z",
+    "read_at": "2026-11-27T07:28:10Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -608,7 +641,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T18:29:34Z",
+    "read_at": "2026-11-27T07:28:04Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -619,7 +652,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T18:29:30Z",
+    "read_at": "2026-11-27T07:28:01Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -630,7 +663,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T18:29:34Z",
+    "read_at": "2026-11-27T07:28:04Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -641,7 +674,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T18:29:34Z",
+    "read_at": "2026-11-27T07:28:04Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -652,7 +685,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T18:29:30Z",
+    "read_at": "2026-11-27T07:28:01Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -663,7 +696,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T18:29:40Z",
+    "read_at": "2026-11-27T07:28:10Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -674,7 +707,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T18:29:34Z",
+    "read_at": "2026-11-27T07:28:04Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -685,7 +718,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T18:29:34Z",
+    "read_at": "2026-11-27T07:28:04Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -696,7 +729,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-26T18:29:30Z",
+    "read_at": "2026-11-27T07:28:01Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -707,18 +740,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T18:29:40Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Município da Guarda reabilitou dos dois edifícios, na Guarda-Gare, para arrendamentos a famílias de rendimentos intermédios.",
-    "url": "https://radiofronteira.pt/2026/11/25/municipio-da-guarda-reabilitou-dos-dois-edificios-na-guarda-gare-para-arrendamentos-a-familias-de-rendimentos-intermedios/",
-    "published": "2026-11-25T13:14Z",
-    "source": "Rádio Fronteira",
-    "source_site": "https://radiofronteira.pt",
-    "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-26T18:29:34Z",
+    "read_at": "2026-11-27T07:28:10Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -729,7 +751,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T18:29:19Z",
+    "read_at": "2026-11-27T07:27:51Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -740,29 +762,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T18:29:19Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Câmara de Seia discute orçamento superior a 44 milhões de euros para 2027",
-    "url": "https://todasasbeiras.pt/2026/11/25/camara-de-seia-discute-orcamento-superior-a-44-milhoes-de-euros-para-2027/",
-    "published": "2026-11-25T12:12Z",
-    "source": "TB - Todas As Beiras",
-    "source_site": "http://www.todasasbeiras.pt",
-    "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T18:29:40Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "CCDR Centro distingue 25 municípios com o Galardão “Territórios da Longevidade 2025”, seis dos quais da Região das Beiras e Serra da Estrela",
-    "url": "https://todasasbeiras.pt/2026/11/25/ccdr-centro-distingue-25-municipios-com-o-galardao-territorios-da-longevidade-2025-seis-dos-quais-da-regiao-das-beiras-e-serra-da-estrela/",
-    "published": "2026-11-25T11:56Z",
-    "source": "TB - Todas As Beiras",
-    "source_site": "http://www.todasasbeiras.pt",
-    "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-26T18:29:40Z",
+    "read_at": "2026-11-27T07:27:51Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -773,7 +773,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-26T18:29:19Z",
+    "read_at": "2026-11-27T07:27:51Z",
     "mentions_place": false,
     "date": "2026-11-25"
    }
