@@ -435,18 +435,150 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T07:38Z",
+  "read_at": "2026-11-27T18:38Z",
   "by": "place.guarda@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Guarda celebra amanhã o Dia da Cidade com a inauguração do órgão de tubos e a homenagem a diversas personalidades e instituições",
-   "url": "https://todasasbeiras.pt/2026/11/26/guarda-celebra-amanha-o-dia-da-cidade-com-a-inauguracao-do-orgao-de-tubos-e-a-homenagem-a-diversas-personalidades-e-instituicoes/",
-   "source": "TB - Todas As Beiras",
-   "date": "2026-11-26",
-   "read_at": "2026-11-27T07:28:10Z",
+   "title": "Personalidades e instituições da Guarda homenageadas nos 827 anos da cidade mais alta",
+   "url": "https://www.altitude.fm/actualidade/personalidades-e-instituicoes-da-guarda-homenageadas-nos-827-anos-da-cidade-mais-alta/",
+   "source": "Rádio Altitude",
+   "date": "2026-11-27",
+   "read_at": "2026-11-27T18:28:20Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "Personalidades e instituições homenageadas nos 827 anos da cidade mais alta",
+    "url": "https://www.ointerior.pt/sociedade/personalidades-e-instituicoes-homenageadas-nos-827-anos-da-cidade-mais-alta/",
+    "published": "2026-11-27T16:41Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-27T18:28:19Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Personalidades e instituições da Guarda homenageadas nos 827 anos da cidade mais alta",
+    "url": "https://www.altitude.fm/actualidade/personalidades-e-instituicoes-da-guarda-homenageadas-nos-827-anos-da-cidade-mais-alta/",
+    "published": "2026-11-27T16:37Z",
+    "source": "Rádio Altitude",
+    "source_site": "https://www.altitude.fm/",
+    "feed": "https://www.altitude.fm/feed/",
+    "read_at": "2026-11-27T18:28:20Z",
+    "mentions_place": true,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Câmara do Sabugal garante 400 mil euros para terceira fase da praia fluvial da Devesa",
+    "url": "https://www.ointerior.pt/regiao/camara-do-sabugal-garante-400-mil-euros-para-terceira-fase-da-praia-fluvial-da-devesa/",
+    "published": "2026-11-27T16:30Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-27T18:28:19Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Guardense Daniela Pereira vence Prémio Academia Portuguesa da História",
+    "url": "https://www.ointerior.pt/sociedade/guardense-daniela-pereira-vence-premio-academia-portuguesa-da-historia/",
+    "published": "2026-11-27T15:30Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-27T18:28:19Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Casa do FC Porto – Guarda abre portas",
+    "url": "https://www.ointerior.pt/desporto/casa-do-fc-porto-guarda-abre-portas/",
+    "published": "2026-11-27T14:30Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-27T18:28:19Z",
+    "mentions_place": true,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Os Festejos para assinalar a Festa da Imaculada Conceição em Vilar Formoso, arrancam já este domingo dia 29 de novembro.",
+    "url": "https://radiofronteira.pt/2026/11/27/os-festejos-para-assinalar-a-festa-da-imaculada-conceicao-em-vilar-formoso-arrancam-ja-este-domingo-dia-29-de-novembro/",
+    "published": "2026-11-27T14:29Z",
+    "source": "Rádio Fronteira",
+    "source_site": "https://radiofronteira.pt",
+    "feed": "https://radiofronteira.pt/feed/",
+    "read_at": "2026-11-27T18:28:23Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Podcast “Território Crítico” por Álvaro Riba.",
+    "url": "https://radiofronteira.pt/2026/11/27/podcast-territorio-critico-por-alvaro-riba-2/",
+    "published": "2026-11-27T13:46Z",
+    "source": "Rádio Fronteira",
+    "source_site": "https://radiofronteira.pt",
+    "feed": "https://radiofronteira.pt/feed/",
+    "read_at": "2026-11-27T18:28:23Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Empresários do concelho da Guarda, distinguidos pelo Município da Guarda, num jantar convívio.",
+    "url": "https://radiofronteira.pt/2026/11/27/empresarios-do-concelho-da-guarda-distinguidos-pelo-municipio-da-guarda-num-jantar-convivio/",
+    "published": "2026-11-27T12:54Z",
+    "source": "Rádio Fronteira",
+    "source_site": "https://radiofronteira.pt",
+    "feed": "https://radiofronteira.pt/feed/",
+    "read_at": "2026-11-27T18:28:23Z",
+    "mentions_place": true,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "A Rebolosa, no concelho do Sabugal, voltou a celebrar a Festa de Santa Catarina, com uma feira marcada pela tradição, pela cultura, pelo convívio e por uma forte participação da população.",
+    "url": "https://radiofronteira.pt/2026/11/27/a-rebolosa-no-concelho-do-sabugal-voltou-a-celebrar-a-festa-de-santa-catarina-com-uma-feira-marcada-pela-tradicao-pela-cultura-pelo-convivio-e-por-uma-forte-participacao-da-populacao/",
+    "published": "2026-11-27T12:03Z",
+    "source": "Rádio Fronteira",
+    "source_site": "https://radiofronteira.pt",
+    "feed": "https://radiofronteira.pt/feed/",
+    "read_at": "2026-11-27T18:28:23Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Programa “Mexe-te Freguesias” +65 descentraliza desporto sénior em Gouveia",
+    "url": "https://www.ointerior.pt/regiao/programa-mexe-te-freguesias-65-descentraliza-desporto-senior-em-gouveia/",
+    "published": "2026-11-27T11:30Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-27T18:28:19Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Cidade da Guarda comemora 827 anos desde a atribuição do Foral por D. Sancho I",
+    "url": "https://www.altitude.fm/actualidade/cidade-da-guarda-comemora-827-anos-desde-a-atribuicao-do-foral-por-d-sancho-i/",
+    "published": "2026-11-27T08:45Z",
+    "source": "Rádio Altitude",
+    "source_site": "https://www.altitude.fm/",
+    "feed": "https://www.altitude.fm/feed/",
+    "read_at": "2026-11-27T18:28:20Z",
+    "mentions_place": true,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Ouça o noticiário desta sexta-feira, 27 de novembro",
+    "url": "https://www.altitude.fm/actualidade/ouca-noticiario-desta-sexta-feira-27-de-novembro/",
+    "published": "2026-11-27T08:26Z",
+    "source": "Rádio Altitude",
+    "source_site": "https://www.altitude.fm/",
+    "feed": "https://www.altitude.fm/feed/",
+    "read_at": "2026-11-27T18:28:20Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
    {
     "title": "Guarda celebra amanhã o Dia da Cidade com a inauguração do órgão de tubos e a homenagem a diversas personalidades e instituições",
     "url": "https://todasasbeiras.pt/2026/11/26/guarda-celebra-amanha-o-dia-da-cidade-com-a-inauguracao-do-orgao-de-tubos-e-a-homenagem-a-diversas-personalidades-e-instituicoes/",
@@ -454,7 +586,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-27T07:28:10Z",
+    "read_at": "2026-11-27T18:28:29Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -465,18 +597,7 @@
     "source": "O Interior",
     "source_site": "https://www.ointerior.pt",
     "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-27T07:28:00Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "eSIM em Portugal: ativação e troca de telemóvel",
-    "url": "https://www.ointerior.pt/sociedade/esim-em-portugal-ativacao-e-troca-de-telemovel/",
-    "published": "2026-11-26T20:23Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-27T07:28:00Z",
+    "read_at": "2026-11-27T18:28:19Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -487,18 +608,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-27T07:28:10Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Soft2Bet Responsible Gambling Tools e as Suas Diferentes Funções",
-    "url": "https://www.ointerior.pt/sociedade/soft2bet-responsible-gambling-tools-e-as-suas-diferentes-funcoes/",
-    "published": "2026-11-26T19:20Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-27T07:28:00Z",
+    "read_at": "2026-11-27T18:28:29Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -509,18 +619,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-27T07:28:04Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Plano de Mobilidade Urbana Sustentável das Beiras e Serra da Estrela apresentado esta manhã",
-    "url": "https://www.ointerior.pt/regiao/plano-de-mobilidade-urbana-sustentavel-das-beiras-e-serra-da-estrela-apresentado-esta-manha/",
-    "published": "2026-11-26T18:17Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-27T07:28:00Z",
+    "read_at": "2026-11-27T18:28:23Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -531,7 +630,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-27T07:28:01Z",
+    "read_at": "2026-11-27T18:28:20Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -542,18 +641,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-27T07:28:01Z",
-    "mentions_place": true,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Câmara da Guarda com orçamento de 125 milhões de euros para 2027, oposição diz que está «viciada no crédito bancário»",
-    "url": "https://www.ointerior.pt/sociedade/camara-da-guarda-com-orcamento-de-125-milhoes-de-euros-para-2027-oposicao-diz-que-esta-viciada-no-credito-bancario/",
-    "published": "2026-11-26T17:08Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-27T07:28:00Z",
+    "read_at": "2026-11-27T18:28:20Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -564,7 +652,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-27T07:27:51Z",
+    "read_at": "2026-11-27T18:28:11Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -575,19 +663,8 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-27T07:27:51Z",
+    "read_at": "2026-11-27T18:28:11Z",
     "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Museu dos Sabores da Serra da Estrela: a identidade de uma região no coração da Guarda",
-    "url": "https://www.ointerior.pt/sociedade/museu-dos-sabores-da-serra-da-estrela-a-identidade-de-uma-regiao-no-coracao-da-guarda/",
-    "published": "2026-11-26T16:00Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-27T07:28:00Z",
-    "mentions_place": true,
     "date": "2026-11-26"
    },
    {
@@ -597,7 +674,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-27T07:27:51Z",
+    "read_at": "2026-11-27T18:28:11Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -608,7 +685,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-27T07:28:10Z",
+    "read_at": "2026-11-27T18:28:29Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -619,7 +696,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-27T07:28:01Z",
+    "read_at": "2026-11-27T18:28:20Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -630,7 +707,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-27T07:28:10Z",
+    "read_at": "2026-11-27T18:28:29Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -641,51 +718,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-27T07:28:04Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Rewilding Portugal recebe 30 mil euros para recuperar três ribeiras no Douro Internacional",
-    "url": "https://www.altitude.fm/actualidade/rewilding-portugal-recebe-30-mil-euros-para-recuperar-tres-ribeiras-no-douro-internacional/",
-    "published": "2026-11-26T10:58Z",
-    "source": "Rádio Altitude",
-    "source_site": "https://www.altitude.fm/",
-    "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-27T07:28:01Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Residência de Estudantes do Ensino Superior, na Rua António Sérgio, na Guarda, já está em andamento.",
-    "url": "https://radiofronteira.pt/2026/11/26/residencia-de-estudantes-do-ensino-superior-na-rua-antonio-sergio-na-guarda-ja-esta-em-andamento/",
-    "published": "2026-11-26T10:47Z",
-    "source": "Rádio Fronteira",
-    "source_site": "https://radiofronteira.pt",
-    "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-27T07:28:04Z",
-    "mentions_place": true,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "ULS da Guarda conquistou Prémio no XIX Congresso Nacional da Associação Portuguesa de Farmacêuticos Hospitalares.",
-    "url": "https://radiofronteira.pt/2026/11/26/uls-da-guarda-conquistou-premio-no-xix-congresso-nacional-da-associacao-portuguesa-de-farmaceuticos-hospitalares/",
-    "published": "2026-11-26T10:29Z",
-    "source": "Rádio Fronteira",
-    "source_site": "https://radiofronteira.pt",
-    "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-27T07:28:04Z",
-    "mentions_place": true,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Ouça o noticiário desta quinta-feira, 26 de novembro",
-    "url": "https://www.altitude.fm/actualidade/ouca-o-noticiario-desta-quinta-feira-26-de-novembro/",
-    "published": "2026-11-26T09:31Z",
-    "source": "Rádio Altitude",
-    "source_site": "https://www.altitude.fm/",
-    "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-27T07:28:01Z",
+    "read_at": "2026-11-27T18:28:23Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -696,40 +729,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-27T07:28:10Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "O Pavilhão Municipal do Sabugal, acolheu o 2º Encontro de Walking Football Recreativo, da Associação de Futebol da Guarda.",
-    "url": "https://radiofronteira.pt/2026/11/25/o-pavilhao-municipal-do-sabugal-acolheu-o-2o-encontro-de-walking-football-recreativo-da-associacao-de-futebol-da-guarda/",
-    "published": "2026-11-25T19:29Z",
-    "source": "Rádio Fronteira",
-    "source_site": "https://radiofronteira.pt",
-    "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-27T07:28:04Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "O artista Telmo Lourenço, foi o convidado do programa “Gente de Cá” da Rádio Fronteira.",
-    "url": "https://radiofronteira.pt/2026/11/25/o-artista-telmo-lourenco-foi-o-convidado-do-programa-gente-de-ca-da-radio-fronteira/",
-    "published": "2026-11-25T18:36Z",
-    "source": "Rádio Fronteira",
-    "source_site": "https://radiofronteira.pt",
-    "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-27T07:28:04Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Guarda FC e Minerva Academy Punjab (Índia) estabelecem protocolo de colaboração",
-    "url": "https://www.altitude.fm/actualidade/guarda-fc-minerva-academy-punjab-india-estabelecem-protocolo-de-colaboracao/",
-    "published": "2026-11-25T16:38Z",
-    "source": "Rádio Altitude",
-    "source_site": "https://www.altitude.fm/",
-    "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-27T07:28:01Z",
+    "read_at": "2026-11-27T18:28:29Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -740,7 +740,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-27T07:28:10Z",
+    "read_at": "2026-11-27T18:28:29Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -751,7 +751,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-27T07:27:51Z",
+    "read_at": "2026-11-27T18:28:11Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -762,7 +762,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-27T07:27:51Z",
+    "read_at": "2026-11-27T18:28:11Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -773,7 +773,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-27T07:27:51Z",
+    "read_at": "2026-11-27T18:28:11Z",
     "mentions_place": false,
     "date": "2026-11-25"
    }
