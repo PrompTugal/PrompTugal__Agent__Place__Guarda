@@ -5,7 +5,7 @@
  "kind": "city",
  "parent": "portugal",
  "status": "live",
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "by": "place.guarda@PrompTugal.dinis",
  "mandate": "PrompTugal.news Guarda: AI and technology in Guarda, a district capital of the interior whose centre of gravity is the Politécnico da Guarda, its data science and AI degree, its incubator and its business-digitalisation projects, and what reaches Guarda from Portugal and the world. Independent; every fact sourced.",
  "gravity": {
@@ -435,18 +435,62 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T18:38Z",
+  "read_at": "2026-11-28T07:37Z",
   "by": "place.guarda@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Personalidades e instituições da Guarda homenageadas nos 827 anos da cidade mais alta",
-   "url": "https://www.altitude.fm/actualidade/personalidades-e-instituicoes-da-guarda-homenageadas-nos-827-anos-da-cidade-mais-alta/",
-   "source": "Rádio Altitude",
+   "title": "Sons do novo órgão de tubos já se fazem ouvir na Sé Catedral da Guarda",
+   "url": "https://todasasbeiras.pt/2026/11/27/sons-do-novo-orgao-de-tubos-ja-se-fazem-ouvir-na-se-catedral-da-guarda/",
+   "source": "TB - Todas As Beiras",
    "date": "2026-11-27",
-   "read_at": "2026-11-27T18:28:20Z",
+   "read_at": "2026-11-28T07:27:57Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "Sons do novo órgão de tubos já se fazem ouvir na Sé Catedral da Guarda",
+    "url": "https://todasasbeiras.pt/2026/11/27/sons-do-novo-orgao-de-tubos-ja-se-fazem-ouvir-na-se-catedral-da-guarda/",
+    "published": "2026-11-27T20:57Z",
+    "source": "TB - Todas As Beiras",
+    "source_site": "http://www.todasasbeiras.pt",
+    "feed": "http://www.todasasbeiras.pt/feed/",
+    "read_at": "2026-11-28T07:27:57Z",
+    "mentions_place": true,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Órgão de Tubos da Sé da Guarda já foi inaugurado",
+    "url": "https://www.ointerior.pt/sociedade/orgao-de-tubos-da-se-da-guarda-ja-foi-inaugurado/",
+    "published": "2026-11-27T19:55Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-28T07:27:47Z",
+    "mentions_place": true,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Órgão de Tubos da Sé da Guarda já foi inaugurado",
+    "url": "https://www.altitude.fm/actualidade/orgao-de-tubos-da-se-da-guarda-ja-foi-inaugurado/",
+    "published": "2026-11-27T19:47Z",
+    "source": "Rádio Altitude",
+    "source_site": "https://www.altitude.fm/",
+    "feed": "https://www.altitude.fm/feed/",
+    "read_at": "2026-11-28T07:27:48Z",
+    "mentions_place": true,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "O Município de Almeida foi distinguido com o Prémio de Município com maior investimento no desporto em 2026.",
+    "url": "https://radiofronteira.pt/2026/11/27/o-municipio-de-almeida-foi-distinguido-com-o-premio-de-municipio-com-maior-investimento-no-desporto-em-2026/",
+    "published": "2026-11-27T19:08Z",
+    "source": "Rádio Fronteira",
+    "source_site": "https://radiofronteira.pt",
+    "feed": "https://radiofronteira.pt/feed/",
+    "read_at": "2026-11-28T07:27:51Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
    {
     "title": "Personalidades e instituições homenageadas nos 827 anos da cidade mais alta",
     "url": "https://www.ointerior.pt/sociedade/personalidades-e-instituicoes-homenageadas-nos-827-anos-da-cidade-mais-alta/",
@@ -454,7 +498,7 @@
     "source": "O Interior",
     "source_site": "https://www.ointerior.pt",
     "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-27T18:28:19Z",
+    "read_at": "2026-11-28T07:27:47Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -465,7 +509,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-27T18:28:20Z",
+    "read_at": "2026-11-28T07:27:48Z",
     "mentions_place": true,
     "date": "2026-11-27"
    },
@@ -476,7 +520,18 @@
     "source": "O Interior",
     "source_site": "https://www.ointerior.pt",
     "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-27T18:28:19Z",
+    "read_at": "2026-11-28T07:27:47Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Black Friday: o que vale a pena comprar antes da próxima viagem",
+    "url": "https://www.ointerior.pt/atualidade/black-friday-o-que-vale-a-pena-comprar-antes-da-proxima-viagem/",
+    "published": "2026-11-27T16:10Z",
+    "source": "O Interior",
+    "source_site": "https://www.ointerior.pt",
+    "feed": "https://www.ointerior.pt/feed/",
+    "read_at": "2026-11-28T07:27:47Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -487,7 +542,7 @@
     "source": "O Interior",
     "source_site": "https://www.ointerior.pt",
     "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-27T18:28:19Z",
+    "read_at": "2026-11-28T07:27:47Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -498,7 +553,7 @@
     "source": "O Interior",
     "source_site": "https://www.ointerior.pt",
     "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-27T18:28:19Z",
+    "read_at": "2026-11-28T07:27:47Z",
     "mentions_place": true,
     "date": "2026-11-27"
    },
@@ -509,7 +564,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-27T18:28:23Z",
+    "read_at": "2026-11-28T07:27:51Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -520,7 +575,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-27T18:28:23Z",
+    "read_at": "2026-11-28T07:27:51Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -531,7 +586,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-27T18:28:23Z",
+    "read_at": "2026-11-28T07:27:51Z",
     "mentions_place": true,
     "date": "2026-11-27"
    },
@@ -542,18 +597,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-27T18:28:23Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Programa “Mexe-te Freguesias” +65 descentraliza desporto sénior em Gouveia",
-    "url": "https://www.ointerior.pt/regiao/programa-mexe-te-freguesias-65-descentraliza-desporto-senior-em-gouveia/",
-    "published": "2026-11-27T11:30Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-27T18:28:19Z",
+    "read_at": "2026-11-28T07:27:51Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -564,7 +608,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-27T18:28:20Z",
+    "read_at": "2026-11-28T07:27:48Z",
     "mentions_place": true,
     "date": "2026-11-27"
    },
@@ -575,7 +619,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-27T18:28:20Z",
+    "read_at": "2026-11-28T07:27:48Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -586,19 +630,8 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-27T18:28:29Z",
+    "read_at": "2026-11-28T07:27:57Z",
     "mentions_place": true,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Quem baralha as cartas quando o crupiê é uma máquina",
-    "url": "https://www.ointerior.pt/sem-categoria/quem-baralha-as-cartas-quando-o-crupie-e-uma-maquina/",
-    "published": "2026-11-26T20:25Z",
-    "source": "O Interior",
-    "source_site": "https://www.ointerior.pt",
-    "feed": "https://www.ointerior.pt/feed/",
-    "read_at": "2026-11-27T18:28:19Z",
-    "mentions_place": false,
     "date": "2026-11-26"
    },
    {
@@ -608,7 +641,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-27T18:28:29Z",
+    "read_at": "2026-11-28T07:27:57Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -619,7 +652,7 @@
     "source": "Rádio Fronteira",
     "source_site": "https://radiofronteira.pt",
     "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-27T18:28:23Z",
+    "read_at": "2026-11-28T07:27:51Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -630,7 +663,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-27T18:28:20Z",
+    "read_at": "2026-11-28T07:27:48Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -641,7 +674,7 @@
     "source": "Rádio Altitude",
     "source_site": "https://www.altitude.fm/",
     "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-27T18:28:20Z",
+    "read_at": "2026-11-28T07:27:48Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -652,7 +685,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-27T18:28:11Z",
+    "read_at": "2026-11-28T07:27:42Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -663,7 +696,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-27T18:28:11Z",
+    "read_at": "2026-11-28T07:27:42Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -674,7 +707,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-27T18:28:11Z",
+    "read_at": "2026-11-28T07:27:42Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -685,18 +718,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-27T18:28:29Z",
-    "mentions_place": true,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Autarcas do distrito da Guarda com Forais da Fundação recebidos pelo Presidente da República",
-    "url": "https://www.altitude.fm/actualidade/autarcas-do-distrito-da-guarda-com-forais-da-fundacao-recebidos-pelo-presidente-da-republica/",
-    "published": "2026-11-26T12:27Z",
-    "source": "Rádio Altitude",
-    "source_site": "https://www.altitude.fm/",
-    "feed": "https://www.altitude.fm/feed/",
-    "read_at": "2026-11-27T18:28:20Z",
+    "read_at": "2026-11-28T07:27:57Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -707,19 +729,8 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-27T18:28:29Z",
+    "read_at": "2026-11-28T07:27:57Z",
     "mentions_place": true,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "O brilho da “Terra Natal” regressa a Figueira de Castelo Rodrigo, de 1 a 31 de dezembro, para celebrar a época mais mágica do ano.",
-    "url": "https://radiofronteira.pt/2026/11/26/o-brilho-da-terra-natal-regressa-a-figueira-de-castelo-rodrigo-de-1-a-31-de-dezembro-para-celebrar-a-epoca-mais-magica-do-ano/",
-    "published": "2026-11-26T11:55Z",
-    "source": "Rádio Fronteira",
-    "source_site": "https://radiofronteira.pt",
-    "feed": "https://radiofronteira.pt/feed/",
-    "read_at": "2026-11-27T18:28:23Z",
-    "mentions_place": false,
     "date": "2026-11-26"
    },
    {
@@ -729,18 +740,7 @@
     "source": "TB - Todas As Beiras",
     "source_site": "http://www.todasasbeiras.pt",
     "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-27T18:28:29Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Homem detido ao tentar introduzir droga no Estabelecimento Prisional da Guarda",
-    "url": "https://todasasbeiras.pt/2026/11/25/homem-detido-ao-tentar-introduzir-droga-no-estabelecimento-prisional-da-guarda/",
-    "published": "2026-11-25T13:39Z",
-    "source": "TB - Todas As Beiras",
-    "source_site": "http://www.todasasbeiras.pt",
-    "feed": "http://www.todasasbeiras.pt/feed/",
-    "read_at": "2026-11-27T18:28:29Z",
+    "read_at": "2026-11-28T07:27:57Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -751,7 +751,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-27T18:28:11Z",
+    "read_at": "2026-11-28T07:27:42Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -762,7 +762,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-27T18:28:11Z",
+    "read_at": "2026-11-28T07:27:42Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -773,7 +773,7 @@
     "source": "beira.pt",
     "source_site": "https://beira.pt/",
     "feed": "https://beira.pt/feed/",
-    "read_at": "2026-11-27T18:28:11Z",
+    "read_at": "2026-11-28T07:27:42Z",
     "mentions_place": false,
     "date": "2026-11-25"
    }
